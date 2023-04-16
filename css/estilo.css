@@ -81,7 +81,7 @@ body{
     justify-content: center;     /* centro do botão*/ 
     gap: 16px;                   /* largura da foto para o texto */ 
     border: 2px solid aqua;
-    width: 40%;                /* tamanho do botão*/
+    width: 50%;                /* tamanho do botão*/
     text-align: center;
     border-radius: 8px;
     font-size: 1.5rem;
